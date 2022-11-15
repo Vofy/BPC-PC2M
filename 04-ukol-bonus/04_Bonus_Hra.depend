@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1645925094 source:/home/vofy/Downloads/04_Bonus_Hra/main.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"math.h"
+
+1645929292 source:/home/vofy/Downloads/pc2m4ukolBonus/main.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"math.h"
+

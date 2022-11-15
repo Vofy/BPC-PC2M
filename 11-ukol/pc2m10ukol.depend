@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1650224705 source:/home/vofy/Projects/pc2m10ukol/main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"data_read.h"
+	"database.h"
+
+1650224705 source:/home/vofy/Projects/pc2m10ukol/data_read.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"database.h"
+
+1650224705 /home/vofy/Projects/pc2m10ukol/types.h
+
+1650224705 source:/home/vofy/Projects/pc2m10ukol/database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"data_read.h"
+
+1650224705 /home/vofy/Projects/pc2m10ukol/data_read.h
+
+1649717954 source:/home/vofy/Projects/pc2m10ukol/data_print.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"types.h"
+
+1650224705 source:/home/vofy/Projects/pc2m10ukol/types.c
+	<stdlib.h>
+	<string.h>
+	"types.h"
+
+1650224705 /home/vofy/Projects/pc2m10ukol/database.h
+
+1650353435 source:/home/vofy/Projects/pc2m11ukol/data_read.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"database.h"
+
+1650353435 /home/vofy/Projects/pc2m11ukol/types.h
+
+1650353435 /home/vofy/Projects/pc2m11ukol/database.h
+
+1650353480 source:/home/vofy/Projects/pc2m11ukol/database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"data_read.h"
+
+1650353435 /home/vofy/Projects/pc2m11ukol/data_read.h
+
+1650353435 source:/home/vofy/Projects/pc2m11ukol/main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"data_read.h"
+	"database.h"
+
+1650353435 source:/home/vofy/Projects/pc2m11ukol/types.c
+	<stdlib.h>
+	<string.h>
+	"types.h"
+
+1650323196 source:/home/vofy/pc2m11ukol/data_read.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"database.h"
+
+1650323196 /home/vofy/pc2m11ukol/types.h
+
+1650324411 /home/vofy/pc2m11ukol/database.h
+
+1650352674 source:/home/vofy/pc2m11ukol/database.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"types.h"
+	"data_read.h"
+
+1650323196 /home/vofy/pc2m11ukol/data_read.h
+
+1650324568 source:/home/vofy/pc2m11ukol/main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"data_read.h"
+	"database.h"
+
+1650323196 source:/home/vofy/pc2m11ukol/types.c
+	<stdlib.h>
+	<string.h>
+	"types.h"
+

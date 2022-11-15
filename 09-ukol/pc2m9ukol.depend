@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1649089977 source:/home/vofy/Projects/pc2m9ukol/data_analisys/data_analysis.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"../types.h"
+
+1649089993 /home/vofy/Projects/pc2m9ukol/data_analisys/data_analisys.h
+
+1649089788 source:/home/vofy/Projects/pc2m9ukol/data_print/data_print.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"../data_analisys/data_analisys.h"
+
+1649089657 source:/home/vofy/Projects/pc2m9ukol/data_read/data_read.c
+	<stdio.h>
+	<stdlib.h>
+
+1649098565 source:/home/vofy/Projects/pc2m9ukol/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"data_read.h"
+	"data_analisys.h"
+	"data_print.h"
+
+1649069529 /home/vofy/Projects/pc2m9ukol/data_read/data_read.h
+
+1649085635 /home/vofy/Projects/pc2m9ukol/data_print/data_print.h
+
+1649097207 /home/vofy/Projects/pc2m9ukol/types.h
+
+1649094504 source:/home/vofy/Projects/pc2m9ukol/data_read.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1649097142 source:/home/vofy/Projects/pc2m9ukol/types.c
+
+1649098821 source:/home/vofy/Projects/pc2m9ukol/data_analysis.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+
+1649098679 source:/home/vofy/Projects/pc2m9ukol/data_print.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"types.h"
+	"data_analisys.h"
+
+1649092011 /home/vofy/Projects/pc2m9ukol/data_analisys.h
+	"types.h"
+
+1649091897 /home/vofy/Projects/pc2m9ukol/data_read.h
+
+1649098700 /home/vofy/Projects/pc2m9ukol/data_print.h
+
